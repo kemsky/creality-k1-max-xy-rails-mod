@@ -39,12 +39,15 @@ Results for Y axis will be worse (two peaks) when X axis is not reinforced.
 
 # BOM
 
-## Front Idlers
+## Front Idler Left![img.png](img.png)
 
 ![X axis](/images/parts/front_idlers.jpg)
 
-| Item     | Type | Link |
-|----------|------|------|
-| todo     | todo | todo |
+| Item                            | Type      | Count | Link                                                    |
+|---------------------------------|-----------|-------|---------------------------------------------------------|
+| DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
+| Heat Insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 

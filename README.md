@@ -6,6 +6,13 @@ This mod fixes K1 Max quality issues, namely excessive ringing/echo. It also inc
 
 This mod uses MGN12 rails for X and Y axis.
 
+Also, it uses POWGE 7.7 mm belt and corresponding idler pulleys, 
+but you can use 6 mm belt with stock idlers if you add washers to compensate size differences (POWGE idlers have 10.4 mm height).
+
+[Washers 0.2mm](https://s.click.aliexpress.com/e/_Dn3ZZa3)
+
+[Washers 0.3mm](https://s.click.aliexpress.com/e/_DEptgHN)
+
 ### License
 
 All work in this repository falls under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
@@ -39,15 +46,27 @@ Results for Y axis will be worse (two peaks) when X axis is not reinforced.
 
 # BOM
 
-## Front Idler Left![img.png](img.png)
+BOM contains affiliates links, this way you can support my work if you want.
+
+## Front Idlers
 
 ![X axis](/images/parts/front_idlers.jpg)
+
+### Left
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
 | DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
-| Heat Insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+| Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
+### Right
+
+| Item                            | Type      | Count | Link                                                    |
+|---------------------------------|-----------|-------|---------------------------------------------------------|
+| DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
+| Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 

@@ -105,6 +105,24 @@ BOM contains affiliates links, this way you can support my work if you want.
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
+## Rails mounts
+
+![Motor Mounts](/images/parts/rails_mount.jpg)
+
+| Item                            | Type      | Count | Link                                                    |
+|---------------------------------|-----------|-------|---------------------------------------------------------|
+| DIN 912 Socket Head Cap Screw   | M3 25 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| Heat insert                     | M3 5x5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+
+### Right
+
+| Item                          | Type      | Count | Link                                                    |
+|-------------------------------|-----------|-------|---------------------------------------------------------|
+| DIN 912 Socket Head Cap Screw | M3 25 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| Heat insert                   | M3 5x5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+
+
+
 ## Motor Mounts
 
 ![Motor Mounts](/images/parts/motor_mounts.jpg)
@@ -153,6 +171,10 @@ BOM contains affiliates links, this way you can support my work if you want.
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 3x4.5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
+
+## Toolhead
+
+// todo
 
 ## Other parts
 

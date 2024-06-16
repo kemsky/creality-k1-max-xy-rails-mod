@@ -110,7 +110,7 @@ BOM contains affiliate links, this way you can support my work if you want.
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
-## Rails mounts (you'll need at least 2)
+## Rails mounts (you'll need at least 2 of these)
 
 ![Motor Mounts](/images/parts/rails_mount.jpg)
 

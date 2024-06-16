@@ -252,16 +252,11 @@ Alternatively, you can use 20x5 mm aluminium board and 20x5 carbon board instead
 
 ## Other parts
 
-7.7 mm belts increase max accelerations, aluminum pipe improves rigidity of the X axis,
-though it will not provide enough rigidity to have single peak on Y axis.
-
-Personally, I'm using 20x5 mm carbon board and 20x5 mm aluminum boards combined instead of 20x10x2 mm pipe. 
-This items can be found in your local hardware store or on AliExpress.
+7.7 mm belts increase max accelerations.
 
 | Item                       | Type           | Count | Link                                                                                                                                          |
 |----------------------------|----------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | POWGE GT2 belt             | 7.7 mm         | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DkK1xL9)                                                                                       |
-| Aluminium rectangular pipe | 20x10x2x500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_Defnblp)                                                                                       |
 
 ## Tools (optional)
 

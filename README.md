@@ -50,13 +50,14 @@ BOM contains affiliates links, this way you can support my work if you want.
 
 ## Front Idlers
 
-![X axis](/images/parts/front_idlers.jpg)
+![Front Idler](/images/parts/front_idlers.jpg)
 
 ### Left
 
-| Item                            | Type      | Count | Link                                                    |
-|---------------------------------|-----------|-------|---------------------------------------------------------|
-| DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
+| Item                            | Type      | Count | Link                                                  |
+|---------------------------------|-----------|-------|-------------------------------------------------------|
+| DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
+| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DmfmqJh) |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
@@ -65,8 +66,36 @@ BOM contains affiliates links, this way you can support my work if you want.
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
-| DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
+| DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
+| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DmfmqJh) |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
+## Joints
+
+![Joint](/images/parts/joints.jpg)
+
+### Left
+
+| Item                            | Type      | Count | Link                                                    |
+|---------------------------------|-----------|-------|---------------------------------------------------------|
+| DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
+| Flat Thin Wafer Head Screw      | M3 6 mm   | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DFHDPnH) |
+| DIN 912 Socket Head Cap Screw   | M3 8 mm   | 3     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 25 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
+| Heat insert                     | M3 5x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+
+### Right
+
+| Item                            | Type      | Count | Link                                                    |
+|---------------------------------|-----------|-------|---------------------------------------------------------|
+| DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
+| Flat Thin Wafer Head Screw      | M3 6 mm   | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DFHDPnH) |
+| DIN 912 Socket Head Cap Screw   | M3 8 mm   | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 25 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
+| Heat insert                     | M3 5x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+
+# TODO

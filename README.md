@@ -179,7 +179,7 @@ BOM contains affiliates links, this way you can support my work if you want.
 
 ## Toolhead
 
-There are two options: 
+There are 3 options: 
 1. only rail 
 2. rail + 20x10 pipe
 3. rail + 20x5 carbon + 20x5 aluminium.

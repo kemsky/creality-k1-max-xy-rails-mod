@@ -155,7 +155,7 @@ BOM contains affiliates links, this way you can support my work if you want.
 
 | Item                            | Type        | Count | Link                                                    |
 |---------------------------------|-------------|-------|---------------------------------------------------------|
-| DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DCYZ5zD) |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DEOTbEL) |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
@@ -165,7 +165,7 @@ BOM contains affiliates links, this way you can support my work if you want.
 
 | Item                            | Type        | Count | Link                                                    |
 |---------------------------------|-------------|-------|---------------------------------------------------------|
-| DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DCYZ5zD) |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DEOTbEL) |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
@@ -174,7 +174,12 @@ BOM contains affiliates links, this way you can support my work if you want.
 
 ## Toolhead
 
-// todo
+There are two options: 
+1. only rail 
+2. rail + 20x10 pipe
+3. rail + 20x5 carbon + 20x5 aluminium.
+
+// todo: add items and links
 
 ## Other parts
 

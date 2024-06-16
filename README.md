@@ -46,7 +46,7 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 ## Input shaper graphs
 
-Input shaper graphs for reinforced X axis (20x5mm aluminium board + 20x5mm carbon board).
+Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbon sheet).
 
 ![X axis](/images/parts/x_axis.jpg)
 
@@ -219,7 +219,7 @@ There are 2 options for X axis:
    
    There is one benefit - you probably will have print area unchanged.
 
-2. Rail mounted on 20x10 pipe or 20x5 carbon + 20x5 aluminium boards - use [toolhead_20x10.stl](/models/toolhead_20x10.stl)
+2. Rail mounted on 20x10 pipe or 20x5 carbon + 20x5 aluminium sheets - use [toolhead_20x10.stl](/models/toolhead_20x10.stl)
    
    Print area will be reduced to 284 mm (Y axis). 
 
@@ -238,16 +238,16 @@ Use rail as drilling template, first make mark using 4 mm drill bit, then drill 
 | DIN 912 Socket Head Cap Screw | M3 8 mm        | 7-14  | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 
 
-### Aluminium and carbon boards on X axis
+### Aluminium and carbon sheet on X axis
 
-Alternatively, you can use 20x5 mm aluminium board and 20x5 carbon board instead of 20x10 pipe:
+Alternatively, you can use 20x5 mm aluminium sheet and 20x5 carbon sheet instead of 20x10 pipe:
 
 ![Carbon + aluminium](/images/parts/carbon_aluminium.jpg)
 
 | Item                          | Type        | Count | Link                                                    |
 |-------------------------------|-------------|-------|---------------------------------------------------------|
-| Aluminium board               | 20x5 500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_Dm5qHWj) |
-| Carbon board                  | 20x5 500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DBjpWrt) |
+| Aluminium sheet               | 20x5 500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_Dm5qHWj) |
+| Carbon fiber sheet            | 20x5 500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DBjpWrt) |
 | DIN 912 Socket Head Cap Screw | M3 8 mm     | 7-14  | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 
 ## Other parts

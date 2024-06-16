@@ -13,6 +13,13 @@ but you can use 6 mm belt with stock idlers if you add washers to compensate siz
 
 [Washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)
 
+There are two version of toolhead: one for rails only and one for rails reinforced with 20x10 pipe.
+
+You must use camera mount from this mod, it is 8mm lower than original.
+
+All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max 410 mm total length, 
+Y axis rails have max 394 mm total length.
+
 ### License
 
 All work in this repository falls under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
@@ -34,9 +41,9 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 ## Input Shapers
 
-Input Shaper graphs for reinforced X axis (20x5mm aluminium + 20x5mm carbon).
+Input shaper graphs for reinforced X axis (20x5mm aluminium + 20x5mm carbon).
 
-**Results for Y axis will be worse (two peaks) when X axis is not reinforced or aluminum pipe 20x10x2 is used.**
+**(!) Results for Y axis will be worse (two peaks) when X axis is not reinforced or aluminum pipe 20x10x2 is used.**
 
 ### X axis
 ![X axis](/images/resonances_x.png)
@@ -132,6 +139,7 @@ BOM contains affiliates links, this way you can support my work if you want.
 |---------------------------------|-------------|-------|---------------------------------------------------------|
 | DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DEOTbEL) |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 3x4.5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
@@ -141,6 +149,7 @@ BOM contains affiliates links, this way you can support my work if you want.
 |---------------------------------|-------------|-------|---------------------------------------------------------|
 | DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DEOTbEL) |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 3x4.5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
@@ -150,7 +159,8 @@ BOM contains affiliates links, this way you can support my work if you want.
 7.7 mm belts increase max accelerations, aluminum pipe improves rigidity of the X axis,
 though it will not provide enough rigidity to have single peak on Y axis.
 
-Personally, I'm using 20x5 mm carbon board and 20x5 mm aluminum boards combined instead of 20x10x2 mm pipe. This items can be found in your local hardware stores or on AliExpress.
+Personally, I'm using 20x5 mm carbon board and 20x5 mm aluminum boards combined instead of 20x10x2 mm pipe. 
+This items can be found in your local hardware store or on AliExpress.
 
 | Item                       | Type           | Count | Link                                                                                                                                          |
 |----------------------------|----------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -158,6 +168,8 @@ Personally, I'm using 20x5 mm carbon board and 20x5 mm aluminum boards combined 
 | Aluminium rectangular pipe | 20x10x2x500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_Defnblp)                                                                                       |
 
 ## Tools (Optional)
+
+Thins you might need, drill bits, taps.
 
 | Item                | Type | Count | Link                                                    |
 |---------------------|------|-------|---------------------------------------------------------|

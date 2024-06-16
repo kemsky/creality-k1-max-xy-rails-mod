@@ -39,7 +39,7 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 ![front idler](/images/assembled/IMG_20240616_014735.jpg)
 ![toolhead](/images/assembled/IMG_20240616_014742.jpg)
 
-## Input Shapers
+## Input Shaper graphs
 
 Input shaper graphs for reinforced X axis (20x5mm aluminium + 20x5mm carbon).
 

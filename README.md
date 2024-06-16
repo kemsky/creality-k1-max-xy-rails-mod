@@ -13,10 +13,6 @@ but you can use 6 mm belt with stock idlers if you add washers to compensate siz
 
 [Washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)
 
-There are two versions of toolhead: 
-- rails only
-- rails reinforced with 20x10 aluminium pipe (or 20x5 mm carbon board + 20x5 mm aluminum board).
-
 **You must use camera mount from this mod, it is 8mm lower than original.**
 
 **This mod changes print area depending on options you select, beware.**
@@ -72,6 +68,8 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ### Left
 
+[front_idler_left.stl](/models/front_idler_left.stl)
+
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
 | DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
@@ -81,6 +79,8 @@ BOM contains affiliate links, this way you can support my work if you want.
 | Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 ### Right
+
+[front_idler_right.stl](/models/front_idler_right.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -96,6 +96,8 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ### Left
 
+[joint_left.stl](/models/joint_left.stl)
+
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
 | DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
@@ -106,6 +108,8 @@ BOM contains affiliate links, this way you can support my work if you want.
 | Heat insert                     | M3 5x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 ### Right
+
+[joint_right.stl](/models/joint_right.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -118,7 +122,12 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ## Rails mounts (you'll need at least 2 of these)
 
-![Motor Mounts](/images/parts/rails_mount.jpg)
+![Rails Mount](/images/parts/rails_mount.jpg)
+![Rails Mount](/images/assembled/IMG_20240616_014730.jpg)
+
+### Left
+
+[rail_mount.stl](/models/rail_mount.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -127,11 +136,12 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ### Right
 
+[rail_mount.stl](/models/rail_mount.stl)
+
 | Item                          | Type      | Count | Link                                                    |
 |-------------------------------|-----------|-------|---------------------------------------------------------|
 | DIN 912 Socket Head Cap Screw | M3 25 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | Heat insert                   | M3 5x5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
-
 
 
 ## Motor Mounts
@@ -139,6 +149,8 @@ BOM contains affiliate links, this way you can support my work if you want.
 ![Motor Mounts](/images/parts/motor_mounts.jpg)
 
 ### Left
+
+[motor_mount_left.stl](/models/motor_mount_left.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -149,6 +161,8 @@ BOM contains affiliate links, this way you can support my work if you want.
 | Heat insert                     | M3 5x5 mm | 6     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 ### Right
+
+[motor_mount_right.stl](/models/motor_mount_right.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -164,6 +178,8 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ### Left
 
+[belt_tensioner_left.stl](/models/belt_tensioner_left.stl)
+
 | Item                            | Type        | Count | Link                                                    |
 |---------------------------------|-------------|-------|---------------------------------------------------------|
 | DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DCYZ5zD) |
@@ -173,6 +189,8 @@ BOM contains affiliate links, this way you can support my work if you want.
 | Heat insert                     | M3 3x4.5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 ### Right
+
+[belt_tensioner_right.stl](/models/belt_tensioner_right.stl)
 
 | Item                            | Type        | Count | Link                                                    |
 |---------------------------------|-------------|-------|---------------------------------------------------------|
@@ -186,9 +204,19 @@ BOM contains affiliate links, this way you can support my work if you want.
 ## Toolhead
 
 There are 3 options: 
-1. only rail 
-2. rail + 20x10 pipe
-3. rail + 20x5 carbon + 20x5 aluminium.
+1. rail only - use [toolhead.stl](/models/toolhead.stl)
+2. rail mounted on 20x10 pipe - use [toolhead_20x10.stl](/models/toolhead_20x10.stl)
+3. rail mounted on 20x5 carbon + 20x5 aluminium - [toolhead_20x10.stl](/models/toolhead_20x10.stl)
+
+Aluminium pipe with tapped holes for rails (use 2.5 mm drill bit then M3 tap):
+
+![Aluminium pipe](/images/parts/aluminium_pipe.jpg)
+
+You can print several [x_axis_frame_20x10_with_rails.stl](/models/x_axis_frame_20x10_with_rails.stl) parts to simplify this process. 
+
+Alternatively, you can use 20x5 mm aluminium board and 20x5 carbon board instead of 20x10 pipe:
+
+![Carbon + aluminium](/images/parts/carbon_aluminium.jpg)
 
 // todo: add items and links
 

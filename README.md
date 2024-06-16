@@ -58,7 +58,7 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium + 20x5mm carbon).
 
 # BOM
 
-BOM contains affiliates links, this way you can support my work if you want.
+BOM contains affiliate links, this way you can support my work if you want.
 
 ## Front Idlers
 

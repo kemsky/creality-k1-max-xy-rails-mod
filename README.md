@@ -58,7 +58,15 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbo
 
 ## VFA
 
-// todo: add photo
+### eSun Silk PLA
+
+![Silk PLA 1](/images/silk_pla_1.jpg)
+![Silk PLA 2](/images/silk_pla_2.jpg)
+
+### eSun Mate PLA
+
+![Mate PLA 1](/images/mate_pla_1.jpg)
+![Mate PLA 2](/images/mate_pla_2.jpg)
 
 # BOM
 

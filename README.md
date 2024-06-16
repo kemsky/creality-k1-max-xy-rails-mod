@@ -211,11 +211,18 @@ You'll need at least 2 of these for each side.
 
 There are 2 options for X axis:
 
-1. rail only - [toolhead.stl](/models/toolhead.stl)
-2. rail mounted on 20x10 pipe or 20x5 carbon + 20x5 aluminium boards - [toolhead_20x10.stl](/models/toolhead_20x10.stl)
+1. Rail only - use [toolhead.stl](/models/toolhead.stl)
+   
+   MGN12 rail can be used on X axis without reinforcement, but it is not rigid enough.
+   
+   Bed mesh will likely be less accurate, input shaper graph for Y axis will have at least 2 peaks, there will be vibrations on Z axis.
+   
+   There is one benefit - you probably will have print area unchanged.
 
-MGN12 rail can be used on X axis without reinforcement, but it is not rigid enough. 
-Bed mesh will likely be less accurate, input shaper graph for Y axis will have at least 2 peaks, there will be vibrations on Z axis. 
+2. Rail mounted on 20x10 pipe or 20x5 carbon + 20x5 aluminium boards - use [toolhead_20x10.stl](/models/toolhead_20x10.stl)
+   
+   Print area will be reduced to 284 mm (Y axis). 
+
 
 ### Aluminium rectangular pipe on X axis
 

@@ -48,8 +48,6 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbon sheet).
 
-![X axis](/images/parts/x_axis.jpg)
-
 **(!) Results for Y axis will be worse (two peaks) when X axis is not reinforced or aluminum pipe 20x10x2 is used.**
 
 ### X axis
@@ -57,6 +55,10 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbo
 
 ### Y axis
 ![Y axis](/images/resonances_y.png)
+
+## VFA
+
+// todo: add photo
 
 # BOM
 
@@ -242,6 +244,7 @@ Use rail as drilling template, first make mark using 4 mm drill bit, then drill 
 
 Alternatively, you can use 20x5 mm aluminium sheet and 20x5 carbon sheet instead of 20x10 pipe:
 
+![Carbon + aluminium](/images/parts/x_axis.jpg)
 ![Carbon + aluminium](/images/parts/carbon_aluminium.jpg)
 
 | Item                          | Type        | Count | Link                                                    |
@@ -260,9 +263,13 @@ Both toolheads ([toolhead.stl](/models/toolhead.stl) and [toolhead_20x10.stl](/m
 
 7.7 mm belts increase max accelerations.
 
-| Item                       | Type           | Count | Link                                                                                                                                          |
-|----------------------------|----------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| POWGE GT2 belt             | 7.7 mm         | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DkK1xL9)                                                                                       |
+You will have to cut rails, you can use Dremel or similar tool (use safety glasses!).
+
+| Item              | Type   | Count | Link                                                    |
+|-------------------|--------|-------|---------------------------------------------------------|
+| POWGE GT2 belt    | 7.7 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DkK1xL9) |
+| KGT MGN12H + rail | 400 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DljEcJZ) |
+| KGT MGN12H + rail | 500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DcIqeVl) |
 
 ## Tools (optional)
 

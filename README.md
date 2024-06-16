@@ -13,7 +13,7 @@ but you can use 6 mm belt with stock idlers if you add washers to compensate siz
 
 [Washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)
 
-There are two version of toolhead: one for rails only and one for rails reinforced with 20x10 pipe.
+There are two versions of toolhead: one for rails only and one for rails reinforced with 20x10 pipe.
 
 You must use camera mount from this mod, it is 8mm lower than original.
 

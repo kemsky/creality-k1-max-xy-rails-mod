@@ -17,8 +17,8 @@ There are two version of toolhead: one for rails only and one for rails reinforc
 
 You must use camera mount from this mod, it is 8mm lower than original.
 
-All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max 410 mm total length, 
-Y axis rails have max 394 mm total length.
+All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max 410 mm total length (375 + 17.5x2), 
+Y axis rails have max 394 mm total length (safe to use 375 + 2x9 mm).
 
 Recommended printing materials:
 

@@ -20,6 +20,11 @@ You must use camera mount from this mod, it is 8mm lower than original.
 All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max 410 mm total length, 
 Y axis rails have max 394 mm total length.
 
+Recommended printing materials:
+
+- Toolhead - PA-6 or similar
+- Other parts - ABS-GF/ABS-CF
+
 ### License
 
 All work in this repository falls under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
@@ -39,7 +44,7 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 ![front idler](/images/assembled/IMG_20240616_014735.jpg)
 ![toolhead](/images/assembled/IMG_20240616_014742.jpg)
 
-## Input Shaper graphs
+## Input shaper graphs
 
 Input shaper graphs for reinforced X axis (20x5mm aluminium + 20x5mm carbon).
 

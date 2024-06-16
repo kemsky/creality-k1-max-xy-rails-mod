@@ -58,6 +58,8 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbo
 
 ## VFA
 
+**N.B.** I use 0.9 degree stepper motors - [17HS6401S 0.9](https://s.click.aliexpress.com/e/_DeegBeL), they are not ideal, hot and have lower torque, but I get less VFA.
+
 ### eSun Silk PLA
 
 ![Silk PLA 1](/images/silk_pla_1.jpg)

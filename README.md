@@ -48,6 +48,8 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 Input shaper graphs for reinforced X axis (20x5mm aluminium + 20x5mm carbon).
 
+![X axis](/images/parts/x_axis.jpg)
+
 **(!) Results for Y axis will be worse (two peaks) when X axis is not reinforced or aluminum pipe 20x10x2 is used.**
 
 ### X axis

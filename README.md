@@ -232,13 +232,23 @@ Use rail as drilling template, first make mark using 4 mm drill bit, then drill 
 
 ![Aluminium pipe](/images/parts/aluminium_pipe.jpg)
 
+| Item                          | Type           | Count | Link                                                    |
+|-------------------------------|----------------|-------|---------------------------------------------------------|
+| Aluminium rectangular pipe    | 20x10x2 500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_Defnblp) |
+| DIN 912 Socket Head Cap Screw | M3 8 mm        | 7-14  | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+
+
 ### Aluminium and carbon boards on X axis
 
 Alternatively, you can use 20x5 mm aluminium board and 20x5 carbon board instead of 20x10 pipe:
 
 ![Carbon + aluminium](/images/parts/carbon_aluminium.jpg)
 
-// todo: add items and links
+| Item                          | Type        | Count | Link                                                    |
+|-------------------------------|-------------|-------|---------------------------------------------------------|
+| Aluminium board               | 20x5 500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_Dm5qHWj) |
+| Carbon board                  | 20x5 500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DBjpWrt) |
+| DIN 912 Socket Head Cap Screw | M3 8 mm     | 7-14  | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 
 ## Other parts
 

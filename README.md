@@ -201,9 +201,9 @@ This items can be found in your local hardware store or on AliExpress.
 | POWGE GT2 belt             | 7.7 mm         | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DkK1xL9)                                                                                       |
 | Aluminium rectangular pipe | 20x10x2x500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_Defnblp)                                                                                       |
 
-## Tools (Optional)
+## Tools (optional)
 
-Thins you might need, drill bits, taps.
+Things you might need, drill bits, taps.
 
 | Item                | Type | Count | Link                                                    |
 |---------------------|------|-------|---------------------------------------------------------|

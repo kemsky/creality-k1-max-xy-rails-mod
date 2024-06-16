@@ -13,9 +13,13 @@ but you can use 6 mm belt with stock idlers if you add washers to compensate siz
 
 [Washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)
 
-There are two versions of toolhead: one for rails only and one for rails reinforced with 20x10 pipe (or 20x5 mm carbon board + 20x5 mm aluminum board).
+There are two versions of toolhead: 
+- rails only
+- rails reinforced with 20x10 aluminium pipe (or 20x5 mm carbon board + 20x5 mm aluminum board).
 
-You must use camera mount from this mod, it is 8mm lower than original.
+**You must use camera mount from this mod, it is 8mm lower than original.**
+
+**This mod changes print area depending on options you select, beware.**
 
 All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max 410 mm total length (375 + 17.5x2), 
 Y axis rails have max 394 mm total length (safe to use 375 + 2x9 mm).
@@ -46,7 +50,7 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 ## Input shaper graphs
 
-Input shaper graphs for reinforced X axis (20x5mm aluminium + 20x5mm carbon).
+Input shaper graphs for reinforced X axis (20x5mm aluminium board + 20x5mm carbon board).
 
 ![X axis](/images/parts/x_axis.jpg)
 
@@ -68,8 +72,8 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ### Left
 
-| Item                            | Type      | Count | Link                                                  |
-|---------------------------------|-----------|-------|-------------------------------------------------------|
+| Item                            | Type      | Count | Link                                                    |
+|---------------------------------|-----------|-------|---------------------------------------------------------|
 | DIN 7991 Flat Head Cap Screw    | M4 30 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DkdOkeJ) |
 | DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DmfmqJh) |
 | DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |

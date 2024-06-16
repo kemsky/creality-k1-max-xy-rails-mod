@@ -9,9 +9,9 @@ This mod uses MGN12 rails for X and Y axis.
 Also, it uses POWGE 7.7 mm belt and corresponding idler pulleys, 
 but you can use 6 mm belt with stock idlers if you add washers to compensate size differences (POWGE idlers have 10.4 mm height).
 
-[Washers 0.2mm](https://s.click.aliexpress.com/e/_Dn3ZZa3)
+[Washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3)
 
-[Washers 0.3mm](https://s.click.aliexpress.com/e/_DEptgHN)
+[Washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)
 
 ### License
 
@@ -36,7 +36,7 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 Input Shaper graphs for reinforced X axis (20x5mm aluminium + 20x5mm carbon).
 
-Results for Y axis will be worse (two peaks) when X axis is not reinforced.
+**Results for Y axis will be worse (two peaks) when X axis is not reinforced or aluminum pipe 20x10x2 is used.**
 
 ### X axis
 ![X axis](/images/resonances_x.png)
@@ -98,4 +98,69 @@ BOM contains affiliates links, this way you can support my work if you want.
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
-# TODO
+## Motor Mounts
+
+![Motor Mounts](/images/parts/motor_mounts.jpg)
+
+### Left
+
+| Item                            | Type      | Count | Link                                                    |
+|---------------------------------|-----------|-------|---------------------------------------------------------|
+| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DmfmqJh) |
+| DIN 912 Socket Head Cap Screw   | M3 6 mm   | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
+| Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+
+### Right
+
+| Item                            | Type      | Count | Link                                                    |
+|---------------------------------|-----------|-------|---------------------------------------------------------|
+| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DmfmqJh) |
+| DIN 912 Socket Head Cap Screw   | M3 6 mm   | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
+| Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+
+## Tensioners
+
+![Motor Mounts](/images/parts/tensioners.jpg)
+
+### Left
+
+| Item                            | Type        | Count | Link                                                    |
+|---------------------------------|-------------|-------|---------------------------------------------------------|
+| DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
+| Heat insert                     | M3 3x4.5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+
+### Right
+
+| Item                            | Type        | Count | Link                                                    |
+|---------------------------------|-------------|-------|---------------------------------------------------------|
+| DIN 912 Socket Head Cap Screw   | M3 45 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
+| Heat insert                     | M3 3x4.5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+
+
+## Other parts
+
+7.7 mm belts increase max accelerations, aluminum pipe improves rigidity of the X axis,
+though it will not provide enough rigidity to have single peak on Y axis.
+
+Personally, I'm using 20x5 mm carbon board and 20x5 mm aluminum boards combined instead of 20x10x2 mm pipe. This items can be found in your local hardware stores or on AliExpress.
+
+| Item                       | Type           | Count | Link                                                                                                                                          |
+|----------------------------|----------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| POWGE GT2 belt             | 7.7 mm         | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DkK1xL9)                                                                                       |
+| Aluminium rectangular pipe | 20x10x2x500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_Defnblp)                                                                                       |
+
+## Tools (Optional)
+
+| Item                | Type | Count | Link                                                    |
+|---------------------|------|-------|---------------------------------------------------------|
+| Hand Tap            | 3 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DEEnHLH) |
+| Hand Tap Wrench     |      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DFq7575) |
+| HSS Drill Bits Set  |      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_Dmw4uhz) |

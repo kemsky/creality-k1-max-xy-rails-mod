@@ -250,6 +250,12 @@ Alternatively, you can use 20x5 mm aluminium sheet and 20x5 carbon sheet instead
 | Carbon fiber sheet            | 20x5 500 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DBjpWrt) |
 | DIN 912 Socket Head Cap Screw | M3 8 mm     | 7-14  | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 
+### Toolhead
+
+Both toolheads ([toolhead.stl](/models/toolhead.stl) and [toolhead_20x10.stl](/models/toolhead_20x10.stl)) use the same set of materials.
+
+// todo: add items table
+
 ## Other parts
 
 7.7 mm belts increase max accelerations.

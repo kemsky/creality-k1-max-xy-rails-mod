@@ -37,12 +37,12 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 ## Photos
 
-![front view](/images/assembled/IMG_20240616_014701.jpg)
-![top view](/images/assembled/IMG_20240616_014719.jpg)
-![motor mount](/images/assembled/IMG_20240616_014727.jpg)
-![joint](/images/assembled/IMG_20240616_014730.jpg)
-![front idler](/images/assembled/IMG_20240616_014735.jpg)
-![toolhead](/images/assembled/IMG_20240616_014742.jpg)
+![front view](/images/assembled/front_view.jpg)
+![top view](/images/assembled/top_view.jpg)
+![motor mount](/images/assembled/motor_mount_view.jpg)
+![joint](/images/assembled/joint_rails_mount_view.jpg)
+![front idler](/images/assembled/joint_camera_front_idler_view.jpg)
+![toolhead](/images/assembled/toolhead_view.jpg)
 
 ## Input shaper graphs
 
@@ -90,6 +90,10 @@ BOM contains affiliate links, this way you can support my work if you want.
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
+## Camera
+
+[camera_8mm_lower.stl](/models/camera_8mm_lower.stl)
+
 ## Joints
 
 ![Joint](/images/parts/joints.jpg)
@@ -120,10 +124,12 @@ BOM contains affiliate links, this way you can support my work if you want.
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
-## Rails mounts (you'll need at least 2 of these)
+## Rails mounts
+
+You'll need at least 2 of these for each side.
 
 ![Rails Mount](/images/parts/rails_mount.jpg)
-![Rails Mount](/images/assembled/IMG_20240616_014730.jpg)
+![Rails Mount](/images/assembled/joint_rails_mount_view.jpg)
 
 ### Left
 

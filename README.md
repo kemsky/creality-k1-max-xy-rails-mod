@@ -207,18 +207,25 @@ You'll need at least 2 of these for each side.
 | Heat insert                     | M3 3x4.5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 
-## Toolhead
+## Toolhead and X axis
 
-There are 3 options: 
-1. rail only - use [toolhead.stl](/models/toolhead.stl)
-2. rail mounted on 20x10 pipe - use [toolhead_20x10.stl](/models/toolhead_20x10.stl)
-3. rail mounted on 20x5 carbon + 20x5 aluminium - [toolhead_20x10.stl](/models/toolhead_20x10.stl)
+There are 2 options for X axis:
 
-Aluminium pipe with tapped holes for rails (use 2.5 mm drill bit then M3 tap):
+1. rail only - [toolhead.stl](/models/toolhead.stl)
+2. rail mounted on 20x10 pipe or 20x5 carbon + 20x5 aluminium boards - [toolhead_20x10.stl](/models/toolhead_20x10.stl)
+
+MGN12 rail can be used on X axis without reinforcement, but it is not rigid enough. 
+Bed mesh will likely be less accurate, input shaper graph for Y axis will have at least 2 peaks, there will be vibrations on Z axis. 
+
+### Aluminium rectangular pipe on X axis
+
+Print several [x_axis_frame_20x10_with_rails.stl](/models/x_axis_frame_20x10_with_rails.stl) parts to simplify this process.
+
+Use rail as drilling template, first make mark using 4 mm drill bit, then drill hole using 2.5 mm drill bit, then tap M3 thread.
 
 ![Aluminium pipe](/images/parts/aluminium_pipe.jpg)
 
-You can print several [x_axis_frame_20x10_with_rails.stl](/models/x_axis_frame_20x10_with_rails.stl) parts to simplify this process. 
+### Aluminium and carbon boards on X axis
 
 Alternatively, you can use 20x5 mm aluminium board and 20x5 carbon board instead of 20x10 pipe:
 

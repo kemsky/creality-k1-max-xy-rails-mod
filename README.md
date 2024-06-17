@@ -4,9 +4,9 @@
 
 This mod fixes K1 Max quality issues, namely excessive ringing/echo. It also increases maximum accelerations.
 
-This mod uses MGN12 rails for X and Y axis.
+This mod uses MGN12 rails and MGN12H carriages for X and Y axis.
 
-Also, it uses POWGE 7.7 mm belt and corresponding idler pulleys, 
+Also, it uses POWGE 7.7mm belt and corresponding idler pulleys, 
 but you can use 6 mm belt with stock idlers if you add washers to compensate size differences (POWGE idlers have 10.4 mm height).
 
 [Washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3)
@@ -17,7 +17,7 @@ but you can use 6 mm belt with stock idlers if you add washers to compensate siz
 
 **This mod changes print area depending on options you select, beware.**
 
-All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max 410 mm total length (375 + 17.5x2), 
+All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max 410 mm total length (375 + 17.5x2 mm), 
 Y axis rails have max 394 mm total length (safe to use 375 + 2x9 mm).
 
 Recommended printing materials:
@@ -54,7 +54,7 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbon sheet).
 
-**(!) Results for Y axis will be worse (two peaks) when X axis is not reinforced or aluminum pipe 20x10x2 is used.**
+**N.B. Results for Y axis will be worse (two peaks) when X axis is not reinforced or aluminum pipe 20x10x2 is used.**
 
 ### X axis
 ![X axis](/images/resonances_x.png)
@@ -64,7 +64,7 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbo
 
 ## VFA
 
-**N.B.** I use 0.9 degree stepper motors - [17HS6401S 0.9](https://s.click.aliexpress.com/e/_DeegBeL), they are not ideal, hot and have lower torque, but I get less VFA.
+**N.B.** I use 0.9 degree stepper motors - [17HS6401S 0.9 (Affiliate)](https://s.click.aliexpress.com/e/_DeegBeL), they are not ideal, hot and have lower torque, but I get less VFA.
 
 ### eSun Silk PLA
 

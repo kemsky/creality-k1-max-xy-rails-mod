@@ -27,6 +27,8 @@ https://www.printables.com/model/913734-creality-k1-max-xy-rails-mod
 
 https://makerworld.com/en/models/498602
 
+https://www.thingiverse.com/thing:6667004
+
 ## License
 
 All work in this repository falls under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).

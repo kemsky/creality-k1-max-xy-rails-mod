@@ -6,12 +6,8 @@ This mod fixes K1 Max quality issues, namely excessive ringing/echo. It also inc
 
 This mod uses MGN12 rails and MGN12H carriages for X and Y axis.
 
-Also, it uses POWGE 7.7mm belt and corresponding idler pulleys, 
-but you can use 6 mm belt with stock idlers if you add washers to compensate size differences (POWGE idlers have 10.4 mm height).
-
-[Washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3)
-
-[Washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)
+Also, it uses POWGE 7.7 mm belt and corresponding idler pulleys, 
+but you can use 6 mm belt with stock idlers if you add washers to compensate size differences (POWGE idlers have 10.4 mm height, [washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3), [washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)).
 
 **You must use camera mount from this mod, it is 8mm lower than original.**
 
@@ -22,7 +18,7 @@ Y axis rails have max 394 mm total length (safe to use 375 + 2x9 mm).
 
 Recommended printing materials:
 
-- Toolhead - PA-6 or similar
+- Toolhead - PA/PA-CF or similar
 - Other parts - ABS-GF/ABS-CF
 
 ## Published
@@ -43,11 +39,17 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 ## Photos
 
+### Front view
 ![front view](/images/assembled/front_view.jpg)
+### Top view
 ![top view](/images/assembled/top_view.jpg)
+### Motor mounts
 ![motor mount](/images/assembled/motor_mount_view.jpg)
+### Joints
 ![joint](/images/assembled/joint_rails_mount_view.jpg)
+### Front idlers
 ![front idler](/images/assembled/joint_camera_front_idler_view.jpg)
+### Toolhead
 ![toolhead](/images/assembled/toolhead_view.jpg)
 
 ## Input shaper graphs
@@ -64,7 +66,7 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbo
 
 ## VFA
 
-**N.B.** I use 0.9 degree stepper motors - [17HS6401S 0.9 (Affiliate)](https://s.click.aliexpress.com/e/_DeegBeL), they are not ideal, hot and have lower torque, but I get less VFA.
+**N.B.** I use 0.9 degree stepper motors - [17HS6401S 0.9 (Affiliate)](https://s.click.aliexpress.com/e/_DeegBeL), they are not ideal, hot and have lower torque then original, but I get less VFA.
 
 ### eSun Silk PLA
 
@@ -156,6 +158,7 @@ You'll need at least 2 of these for each side.
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
 | DIN 912 Socket Head Cap Screw   | M3 25 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 8 mm   | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | Heat insert                     | M3 5x5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 ### Right
@@ -165,6 +168,7 @@ You'll need at least 2 of these for each side.
 | Item                          | Type      | Count | Link                                                    |
 |-------------------------------|-----------|-------|---------------------------------------------------------|
 | DIN 912 Socket Head Cap Screw | M3 25 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw | M3 8 mm   | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | Heat insert                   | M3 5x5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 
@@ -278,8 +282,6 @@ Both toolheads ([toolhead.stl](/models/toolhead.stl) and [toolhead_20x10.stl](/m
 ## Other parts
 
 7.7 mm belts increase max accelerations.
-
-You will have to cut rails, you can use Dremel or similar tool (use safety glasses!).
 
 | Item              | Type   | Count | Link                                                    |
 |-------------------|--------|-------|---------------------------------------------------------|

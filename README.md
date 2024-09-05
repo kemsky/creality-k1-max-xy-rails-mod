@@ -9,6 +9,10 @@ This mod uses MGN12 rails and MGN12H carriages for X and Y axis.
 Also, it uses POWGE 7.7 mm belt and corresponding idler pulleys, 
 but you can use 6 mm belt with stock idlers if you add washers to compensate size differences (POWGE idlers have 10.4 mm height, [washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3), [washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)).
 
+**You must replace motor pulleys, 7.7mm belt does not fit stock pulleys.**
+
+I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distance` needs to be adjusted `printer.cfg`). You will need a bearing puller to do that (some people use printed pullers), you have to be careful to avoid damage to motor shafts. If pulleys sit too tight you can use dremel and make cuts to relax pulleys. 
+
 **You must use camera mount from this mod, it is 8mm lower than original.**
 
 **This mod changes print area depending on options you select, beware.**

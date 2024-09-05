@@ -11,7 +11,7 @@ but you can use 6 mm belt with stock idlers if you add washers to compensate siz
 
 **You must replace motor pulleys, 7.7mm belt does not fit stock pulleys.**
 
-I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distance` needs to be adjusted `printer.cfg`). You will need a bearing puller to do that (some people use printed pullers), you have to be careful to avoid damage to motor shafts. If pulleys sit too tight you can use dremel and make cuts to relax pulleys. 
+I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distance` needs to be adjusted `printer.cfg`). You will need a bearing puller to do that (some people use printed pullers e.g. https://www.printables.com/model/515503-pulley-puller), you have to be careful to avoid damage to motor shafts. If pulleys sit too tight you can use dremel and make cuts to relax pulleys. 
 
 **You must use camera mount from this mod, it is 8mm lower than original.**
 

@@ -1,3 +1,7 @@
+### 2024-09-13
+
+- added toolhead photo and BOM
+
 ### 2024-09-05
 
 - fixed left belt tensioner model

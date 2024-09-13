@@ -283,7 +283,15 @@ Alternatively, you can use 20x5 mm aluminium sheet and 20x5 carbon sheet instead
 
 Both toolheads ([toolhead.stl](/models/toolhead.stl) and [toolhead_20x10.stl](/models/toolhead_20x10.stl)) use the same set of materials.
 
-// todo: add items table
+![Toolhead](/images/parts/toolhead.jpg)
+
+| Item                            | Type        | Count | Link                                                    |
+|---------------------------------|-------------|-------|---------------------------------------------------------|
+| Heat insert                     | M3 4.5x3 mm | 6     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+| Heat insert                     | M3 5x7 mm   | 3     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+| Heat insert                     | M3 5x5 mm   | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+| Heat insert                     | M3 5x4 mm   | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+| Heat insert                     | M2 3.5x3 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 ## Other parts
 

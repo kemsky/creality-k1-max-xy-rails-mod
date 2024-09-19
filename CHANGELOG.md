@@ -1,3 +1,7 @@
+### 2024-09-19
+
+- updated toolhead_20x10 to make it lighter and compatible with unicorns
+
 ### 2024-09-13
 
 - added toolhead photo and BOM

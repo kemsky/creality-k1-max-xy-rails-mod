@@ -74,6 +74,8 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbo
 
 **N.B.** I use 0.9 degree stepper motors - [17HS6401S 0.9 (Affiliate)](https://s.click.aliexpress.com/e/_DeegBeL), they are not ideal, hot and have lower torque then original, but I get less VFA.
 
+I would recommend (quite expensive) LDO-42STH48-1684MAC 0.9 degree steppers, they have high torque, low temperature, do not need custom wiring.
+
 ### eSun Silk PLA
 
 ![Silk PLA 1](/images/silk_pla_1.jpg)

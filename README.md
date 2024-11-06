@@ -22,7 +22,7 @@ Y axis rails have max 394 mm total length (safe to use 375 + 2x9 mm).
 
 Recommended printing materials:
 
-- Toolhead - PA/PA-CF or similar
+- Toolhead - PA/PA-CF or similar, ABS-GF
 - Other parts - ABS-GF/ABS-CF
 
 ## Published

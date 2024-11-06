@@ -1,3 +1,7 @@
+### 2024-11-07
+
+- fixed left and right joints, made them more rigid, printer should become less noisy with this fix
+
 ### 2024-10-19
 
 - updated readme

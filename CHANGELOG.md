@@ -1,3 +1,8 @@
+### 2024-12-16
+
+- export automation
+- prepare parts for assembly
+
 ### 2024-11-07
 
 - fixed left and right joints, made them more rigid, printer should become less noisy with this fix

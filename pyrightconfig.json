@@ -1,0 +1,6 @@
+{
+    "include": [
+        "script"
+    ],
+    "reportMissingImports": "information"
+}

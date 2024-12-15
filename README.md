@@ -2,6 +2,8 @@
 
 ## Description
 
+<img title="CAD Assembly" alt="CAD Assembly" src="images/assembled/cad_assembly.png">
+
 This mod fixes `K1 Max` quality issues, namely excessive ringing/echo. It also increases maximum accelerations.
 
 This mod uses `MGN12` rails and `MGN12H` carriages for X and Y axis.
@@ -45,8 +47,10 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 ## Photos
 
-### Front view
-![front view](/images/assembled/front_view.jpg)
+<details>
+    <summary>Front view</summary>
+    <img title="Front view" alt="Front view" src="images/assembled/front_view.jpg">
+</details>
 
 <details>
     <summary>Top view</summary>

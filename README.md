@@ -1,13 +1,13 @@
-# Creality K1 Max XY Rails Mod
+# Creality `K1 Max` XY Rails Mod
 
 ## Description
 
-This mod fixes K1 Max quality issues, namely excessive ringing/echo. It also increases maximum accelerations.
+This mod fixes `K1 Max` quality issues, namely excessive ringing/echo. It also increases maximum accelerations.
 
-This mod uses MGN12 rails and MGN12H carriages for X and Y axis.
+This mod uses `MGN12` rails and `MGN12H` carriages for X and Y axis.
 
-Also, it uses POWGE 7.7 mm belt and corresponding idler pulleys, 
-but you can use 6 mm belt with stock idlers if you add washers to compensate size differences (POWGE idlers have 10.4 mm height, [washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3), [washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)).
+Also, it uses `POWGE` 7.7 mm belt and corresponding idler pulleys, 
+but you can use 6 mm belt with stock idlers if you add washers to compensate size differences (`POWGE` idlers have 10.4 mm height, [washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3), [washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)).
 
 **You must replace motor pulleys, 7.7mm belt does not fit stock pulleys.**
 
@@ -47,16 +47,32 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 ### Front view
 ![front view](/images/assembled/front_view.jpg)
-### Top view
-![top view](/images/assembled/top_view.jpg)
-### Motor mounts
-![motor mount](/images/assembled/motor_mount_view.jpg)
-### Joints
-![joint](/images/assembled/joint_rails_mount_view.jpg)
-### Front idlers
-![front idler](/images/assembled/joint_camera_front_idler_view.jpg)
-### Toolhead
-![toolhead](/images/assembled/toolhead_view.jpg)
+
+<details>
+    <summary>Top view</summary>
+    <img title="Top view" alt="Top view" src="images/assembled/top_view.jpg">
+</details>
+
+<details>
+    <summary>Motor mounts</summary>
+    <img title="Motor mounts" alt="Motor mounts" src="images/assembled/motor_mount_view.jpg">
+</details>
+
+<details>
+    <summary>Joints</summary>
+    <img title="Joints" alt="Joints" src="images/assembled/joint_rails_mount_view.jpgg">
+</details>
+
+<details>
+    <summary>Front idlers</summary>
+    <img title="Front idlers" alt="Front idlers" src="images/assembled/joint_camera_front_idler_view.jpg">
+</details>
+
+<details>
+    <summary>Toolhead</summary>
+    <img title="Toolhead" alt="Toolhead" src="images/assembled/toolhead_view.jpg">
+</details>
+
 
 ## Input shaper graphs
 
@@ -64,11 +80,15 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbo
 
 **N.B. Results for Y axis will be worse (two peaks) when X axis is not reinforced or aluminum pipe 20x10x2 is used.**
 
-### X axis
-![X axis](/images/resonances_x.png)
+<details>
+    <summary>X axis</summary>
+    <img title="X axis" alt="X axis" src="images/resonances_x.png">
+</details>
 
-### Y axis
-![Y axis](/images/resonances_y.png)
+<details>
+    <summary>Y axis</summary>
+    <img title="Y axis" alt="Y axis" src="images/resonances_y.png">
+</details>
 
 ## VFA
 
@@ -76,15 +96,18 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbo
 
 I would recommend (quite expensive) LDO-42STH48-1684MAC 0.9 degree steppers, they have high torque, low temperature, do not need custom wiring.
 
-### eSun Silk PLA
+<details>
+    <summary>eSun Silk PLA</summary>
+    <img title="Silk PLA 1" alt="Silk PLA 1" src="images/silk_pla_1.jpg">
+    <img title="Silk PLA 2" alt="Silk PLA 2" src="images/silk_pla_2.jpgg">
+</details>
 
-![Silk PLA 1](/images/silk_pla_1.jpg)
-![Silk PLA 2](/images/silk_pla_2.jpg)
+<details>
+    <summary>eSun Mate PLA</summary>
+    <img title="Mate PLA 1" alt="Mate PLA 1" src="images/mate_pla_1.jpg">
+    <img title="Mate PLA 2" alt="Mate PLA 2" src="images/mate_pla_2.jpg">
+</details>
 
-### eSun Mate PLA
-
-![Mate PLA 1](/images/mate_pla_1.jpg)
-![Mate PLA 2](/images/mate_pla_2.jpg)
 
 # BOM
 

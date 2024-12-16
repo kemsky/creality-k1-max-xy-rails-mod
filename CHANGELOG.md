@@ -1,7 +1,7 @@
 ### 2024-12-16
 
 - export automation
-- prepare parts for assembly
+- added assembly
 
 ### 2024-11-07
 

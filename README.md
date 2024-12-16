@@ -20,7 +20,7 @@ I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distanc
 **This mod changes print area depending on options you select, beware.**
 
 All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max 410 mm total length (375 + 17.5x2 mm), 
-Y axis rails have max 394 mm total length (safe to use 375 + 2x9 mm).
+Y axis rails 385 mm (375 + 5x2 mm).
 
 Recommended printing materials:
 

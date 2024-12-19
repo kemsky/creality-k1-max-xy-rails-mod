@@ -123,7 +123,7 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ### Left
 
-[front_idler_left.stl](/stl/k1_front_idler_left.stl)
+[k1_front_idler_left.stl](/stl/k1_front_idler_left.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -135,7 +135,7 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ### Right
 
-[front_idler_right.stl](/stl/k1_front_idler_right.stl)
+[k1_front_idler_right.stl](/stl/k1_front_idler_right.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -147,7 +147,7 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ## Camera
 
-[camera_8mm_lower.stl](/stl/k1_camera.stl)
+[k1_camera.stl](/stl/k1_camera.stl)
 
 ## Joints
 
@@ -155,7 +155,7 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ### Left
 
-[joint_left.stl](/stl/k1_joint_left.stl)
+[k1_joint_left.stl](/stl/k1_joint_left.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -168,7 +168,7 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ### Right
 
-[joint_right.stl](/stl/k1_joint_right.stl)
+[k1_joint_right.stl](/stl/k1_joint_right.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -188,7 +188,7 @@ You'll need at least 2 of these for each side.
 
 ### Left
 
-[rail_mount.stl](/stl/k1_rail_mount.stl)
+[k1_rail_mount.stl](/stl/k1_rail_mount.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -198,7 +198,7 @@ You'll need at least 2 of these for each side.
 
 ### Right
 
-[rail_mount.stl](/stl/k1_rail_mount.stl)
+[k1_rail_mount.stl](/stl/k1_rail_mount.stl)
 
 | Item                          | Type      | Count | Link                                                    |
 |-------------------------------|-----------|-------|---------------------------------------------------------|
@@ -213,7 +213,7 @@ You'll need at least 2 of these for each side.
 
 ### Left
 
-[motor_mount_left.stl](/stl/k1_motor_mount_left.stl)
+[k1_motor_mount_left.stl](/stl/k1_motor_mount_left.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -225,7 +225,7 @@ You'll need at least 2 of these for each side.
 
 ### Right
 
-[motor_mount_right.stl](/stl/k1_motor_mount_right.stl)
+[k1_motor_mount_right.stl](/stl/k1_motor_mount_right.stl)
 
 | Item                            | Type      | Count | Link                                                    |
 |---------------------------------|-----------|-------|---------------------------------------------------------|
@@ -241,7 +241,7 @@ You'll need at least 2 of these for each side.
 
 ### Left
 
-[belt_tensioner_left.stl](/stl/k1_tensioner_left.stl)
+[k1_tensioner_left.stl](/stl/k1_tensioner_left.stl)
 
 | Item                            | Type        | Count | Link                                                    |
 |---------------------------------|-------------|-------|---------------------------------------------------------|
@@ -253,7 +253,7 @@ You'll need at least 2 of these for each side.
 
 ### Right
 
-[belt_tensioner_right.stl](/stl/k1_tensioner_right.stl)
+[k1_tensioner_right.stl](/stl/k1_tensioner_right.stl)
 
 | Item                            | Type        | Count | Link                                                    |
 |---------------------------------|-------------|-------|---------------------------------------------------------|
@@ -268,7 +268,7 @@ You'll need at least 2 of these for each side.
 
 There are 2 options for X axis:
 
-1. Rail only - use [toolhead.stl](/stl/k1_toolhead.stl)
+1. Rail only - use [k1_toolhead.stl](/stl/k1_toolhead.stl)
    
    MGN12 rail can be used on X axis without reinforcement, but it is not rigid enough.
    
@@ -276,7 +276,7 @@ There are 2 options for X axis:
    
    There is one benefit - you probably will have print area unchanged.
 
-2. Rail mounted on 20x10 pipe or 20x5 carbon + 20x5 aluminium sheets - use [toolhead_20x10.stl](/stl/k1_toolhead_20x10.stl)
+2. Rail mounted on 20x10 pipe or 20x5 carbon + 20x5 aluminium sheets - use [k1_toolhead_20x10.stl](/stl/k1_toolhead_20x10.stl)
    
    Print area will be reduced to 284 mm (Y axis). 
 
@@ -308,7 +308,7 @@ Alternatively, you can use 20x5 mm aluminium sheet and 20x5 carbon sheet instead
 
 ### Toolhead
 
-Both toolheads ([toolhead.stl](/stl/k1_toolhead.stl) and [toolhead_20x10.stl](/stl/k1_toolhead_20x10.stl)) use the same set of materials.
+Both toolheads ([k1_toolhead.stl](/stl/k1_toolhead.stl) and [k1_toolhead_20x10.stl](/stl/k1_toolhead_20x10.stl)) use the same set of materials.
 
 ![Toolhead](/images/parts/toolhead.jpg)
 

@@ -103,7 +103,7 @@ I would recommend (quite expensive) LDO-42STH48-1684MAC 0.9 degree steppers, the
 <details>
     <summary>eSun Silk PLA</summary>
     <img title="Silk PLA 1" alt="Silk PLA 1" src="images/silk_pla_1.jpg">
-    <img title="Silk PLA 2" alt="Silk PLA 2" src="images/silk_pla_2.jpgg">
+    <img title="Silk PLA 2" alt="Silk PLA 2" src="images/silk_pla_2.jpg">
 </details>
 
 <details>

@@ -262,19 +262,19 @@ Use this mounts to preserve print area.
 
 [k1_motor_mount_couplers_stock_left.stl](/stl/k1_motor_mount_couplers_stock_left.stl)
 
-| Item                            | Type      | Count |
-|---------------------------------|-----------|-------|
-| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     |
-| DIN 912 Socket Head Cap Screw   | M3 6 mm   | 3     |
-| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     |
-| Flat Thin Wafer Head Screw      | M3 6 mm   | 2     |
-| MF95ZZ Bearing                  |           | 2     |
-| Double Diaphragm Coupler        | 20x30 5x5 | 1     |
-| Shaft                           | 5x57 mm   | 1     |
-| Motor Pulley for 15mm belt      | 20T 5 mm  | 1     |
-| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     |
-| Heat insert                     | M3 5x5 mm | 5     |
-| Heat insert                     | M3 4x5 mm | 1     |
+| Item                            | Type      | Count | Link                                                    |
+|---------------------------------|-----------|-------|---------------------------------------------------------|
+| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DmfmqJh) |
+| DIN 912 Socket Head Cap Screw   | M3 6 mm   | 3     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| Flat Thin Wafer Head Screw      | M3 6 mm   | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DFHDPnH) |
+| MF95ZZ Bearing                  |           | 2     | [AliExpress](https://s.click.aliexpress.com/e/_onsRFx9) |
+| Double Diaphragm Coupler        | 20x30 5x5 | 1     | [AliExpress](https://s.click.aliexpress.com/e/_opH2rfl) |
+| Shaft                           | 5x57 mm   | 1     | [AliExpress](https://s.click.aliexpress.com/e/_oDW10pH) |
+| Motor Pulley for 15mm belt      | 20T 5 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_opRGeML) |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
+| Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+| Heat insert                     | M3 4x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 
 ### Motor mount right (stock motors)
@@ -286,19 +286,19 @@ Use this mounts to preserve print area.
 
 [k1_motor_mount_couplers_stock_right.stl](/stl/k1_motor_mount_couplers_stock_right.stl)
 
-| Item                            | Type      | Count |
-|---------------------------------|-----------|-------|
-| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     |
-| DIN 912 Socket Head Cap Screw   | M3 6 mm   | 3     |
-| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     |
-| Flat Thin Wafer Head Screw      | M3 6 mm   | 2     |
-| MF95ZZ Bearing                  |           | 2     |
-| Double Diaphragm Coupler        | 20x30 5x5 | 1     |
-| Shaft                           | 5x57 mm   | 1     |
-| Motor Pulley for 15mm belt      | 20T 5 mm  | 1     |
-| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     |
-| Heat insert                     | M3 5x5 mm | 5     |
-| Heat insert                     | M3 4x5 mm | 1     |
+| Item                            | Type      | Count | Link                                                    |
+|---------------------------------|-----------|-------|---------------------------------------------------------|
+| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     | [AliExpress](https://s.click.aliexpress.com/e/_DmfmqJh) |
+| DIN 912 Socket Head Cap Screw   | M3 6 mm   | 3     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
+| Flat Thin Wafer Head Screw      | M3 6 mm   | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DFHDPnH) |
+| MF95ZZ Bearing                  |           | 2     | [AliExpress](https://s.click.aliexpress.com/e/_onsRFx9) |
+| Double Diaphragm Coupler        | 20x30 5x5 | 1     | [AliExpress](https://s.click.aliexpress.com/e/_opH2rfl) |
+| Shaft                           | 5x57 mm   | 1     | [AliExpress](https://s.click.aliexpress.com/e/_oDW10pH) |
+| Motor Pulley for 15mm belt      | 20T 5 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_opRGeML) |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
+| Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+| Heat insert                     | M3 4x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 ## Tensioners
 

@@ -6,21 +6,20 @@
 
 This mod fixes `K1 Max` quality issues, namely excessive ringing/echo. It also increases maximum accelerations.
 
-This mod uses `MGN12` rails and `MGN12H` carriages for X and Y axis.
+**You must replace motor pulleys, 7.7mm belt does not fit stock pulleys. Alternatively, you can install non-stock motors.**
 
-Also, it uses `POWGE` 7.7 mm belt and corresponding idler pulleys, 
-but you can use 6 mm belt with stock idlers if you add washers to compensate size differences (`POWGE` idlers have 10.4 mm height, [washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3), [washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)).
+This mod uses `POWGE` 7.7 mm belt and corresponding idler pulleys.
+You can use 6 mm belt with stock idlers if you add washers to compensate size differences (`POWGE` idlers have 10.4 mm height, [washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3), [washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)).
 
-**You must replace motor pulleys, 7.7mm belt does not fit stock pulleys.**
-
-I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distance` needs to be adjusted `printer.cfg`). You will need a bearing puller to do that (some people use printed pullers e.g. https://www.printables.com/model/515503-pulley-puller), you have to be careful to avoid damage to motor shafts. If pulleys sit too tight you can use dremel and make cuts to relax pulleys. 
+I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distance` needs to be adjusted to `40` and `driver_SGTHRS` must be tuned `printer.cfg`). You will need a bearing puller to do that (some people use printed pullers e.g. [pulley puller](https://www.printables.com/model/515503-pulley-puller)), you have to be careful to avoid damage to motor shafts. If pulleys sit too tight you can use dremel and make cuts to relax pulleys. 
 
 **You must use camera mount from this mod, it is 8mm lower than original.**
 
 **This mod changes print area depending on options you select, beware.**
 
-All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max 410 mm total length (375 + 17.5x2 mm), 
-Y axis rails 385 mm (375 + 5x2 mm).
+If you choose motor mounts option 2 - print area should remain the same.
+
+This mod uses `MGN12` rails and `MGN12H` carriages for X and Y axis. All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max length 410 mm (375 + 17.5x2 mm), Y axis rails - 385 mm (375 + 5x2 mm).
 
 Recommended printing materials:
 
@@ -119,7 +118,10 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ## Front Idlers
 
-![Front Idler](/images/parts/front_idlers.jpg)
+<details>
+    <summary>Preview</summary>
+    <img title="front_idlers.jpg" alt="front_idlers.jpg" src="images/parts/front_idlers.jpg">
+</details>
 
 ### Left
 
@@ -151,7 +153,10 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 ## Joints
 
-![Joint](/images/parts/joints.jpg)
+<details>
+    <summary>Preview</summary>
+    <img title="joints" alt="joints" src="images/parts/joints.jpg">
+</details>
 
 ### Left
 
@@ -183,8 +188,11 @@ BOM contains affiliate links, this way you can support my work if you want.
 
 You'll need at least 2 of these for each side.
 
-![Rails Mount](/images/parts/rails_mount.jpg)
-![Rails Mount](/images/assembled/joint_rails_mount_view.jpg)
+<details>
+    <summary>Preview</summary>
+    <img title="rails_mount" alt="rails_mount" src="images/parts/rails_mount.jpg">
+    <img title="joint_rails_mount_view" alt="joint_rails_mount_view" src="images/assembled/joint_rails_mount_view.jpg">
+</details>
 
 ### Left
 
@@ -207,11 +215,14 @@ You'll need at least 2 of these for each side.
 | Heat insert                   | M3 5x5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 
-## Motor Mounts (Option 1)
+## Motor Mounts - Option 1
 
 Use this mounts to simplify build at the cost of reducing print area.
 
-![Motor Mounts](/images/parts/motor_mounts.jpg)
+<details>
+    <summary>Preview</summary>
+    <img title="motor_mounts" alt="motor_mounts" src="images/parts/motor_mounts.jpg">
+</details>
 
 ### Left
 
@@ -238,7 +249,7 @@ Use this mounts to simplify build at the cost of reducing print area.
 | Heat insert                     | M3 5x5 mm | 6     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 
-## Motor Mounts (Option 2)
+## Motor Mounts - Option 2
 
 Use this mounts to preserve print area.
 
@@ -291,7 +302,10 @@ Use this mounts to preserve print area.
 
 ## Tensioners
 
-![Motor Mounts](/images/parts/tensioners.jpg)
+<details>
+    <summary>Preview</summary>
+    <img title="tensioners" alt="tensioners" src="images/parts/tensioners.jpg">
+</details>
 
 ### Left
 
@@ -339,7 +353,10 @@ There are 2 options for X axis:
 
 Use rail as drilling template, first make mark using 4 mm drill bit, then drill hole using 2.5 mm drill bit, then tap M3 thread.
 
-![Aluminium pipe](/images/parts/aluminium_pipe.jpg)
+<details>
+    <summary>Preview</summary>
+    <img title="aluminium_pipe" alt="aluminium_pipe" src="images/parts/aluminium_pipe.jpg">
+</details>
 
 | Item                          | Type           | Count | Link                                                    |
 |-------------------------------|----------------|-------|---------------------------------------------------------|
@@ -351,8 +368,11 @@ Use rail as drilling template, first make mark using 4 mm drill bit, then drill 
 
 Alternatively, you can use 20x5 mm aluminium sheet and 20x5 carbon sheet instead of 20x10 pipe:
 
-![Carbon + aluminium](/images/parts/x_axis.jpg)
-![Carbon + aluminium](/images/parts/carbon_aluminium.jpg)
+<details>
+    <summary>Preview</summary>
+    <img title="x_axis" alt="x_axis" src="images/parts/x_axis.jpg">
+    <img title="carbon_aluminium" alt="carbon_aluminium" src="images/parts/carbon_aluminium.jpg">
+</details>
 
 | Item                          | Type        | Count | Link                                                    |
 |-------------------------------|-------------|-------|---------------------------------------------------------|
@@ -364,7 +384,10 @@ Alternatively, you can use 20x5 mm aluminium sheet and 20x5 carbon sheet instead
 
 Both toolheads ([k1_toolhead.stl](/stl/k1_toolhead.stl) and [k1_toolhead_20x10.stl](/stl/k1_toolhead_20x10.stl)) use the same set of materials.
 
-![Toolhead](/images/parts/toolhead.jpg)
+<details>
+    <summary>Preview</summary>
+    <img title="toolhead" alt="toolhead" src="images/parts/toolhead.jpg">
+</details>
 
 | Item                            | Type        | Count | Link                                                    |
 |---------------------------------|-------------|-------|---------------------------------------------------------|

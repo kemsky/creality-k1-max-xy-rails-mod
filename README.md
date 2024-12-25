@@ -260,7 +260,7 @@ Use this mounts to preserve print area.
     <img title="k1_motor_mount_couplers_stock_left.stl" alt="k1_motor_mount_couplers_stock_left.stl" src="images/assembly/k1_motor_mount_couplers_stock_left_orthographic_axo.png">
 </details>
 
-[k1_motor_mount_stock_left.stl](/stl/k1_motor_mount_couplers_stock_left.stl)
+[k1_motor_mount_couplers_stock_left.stl](/stl/k1_motor_mount_couplers_stock_left.stl)
 
 | Item                            | Type      | Count |
 |---------------------------------|-----------|-------|
@@ -284,7 +284,7 @@ Use this mounts to preserve print area.
     <img title="k1_motor_mount_couplers_stock_right.stl" alt="k1_motor_mount_couplers_stock_right.stl" src="images/assembly/k1_motor_mount_couplers_stock_right_orthographic_axo.png">
 </details>
 
-[k1_motor_mount_stock_right.stl](/stl/k1_motor_mount_couplers_stock_right.stl)
+[k1_motor_mount_couplers_stock_right.stl](/stl/k1_motor_mount_couplers_stock_right.stl)
 
 | Item                            | Type      | Count |
 |---------------------------------|-----------|-------|

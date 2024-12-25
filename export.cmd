@@ -2,4 +2,4 @@
 
 REM exports STL and STEP from FCStd files
 
-FreeCAD.exe .\script\export.py
+FreeCAD.exe .\script\export.py %*

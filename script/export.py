@@ -6,11 +6,17 @@ Or use `./export.sh` from parent dir.
 """
 
 import FreeCAD
+import FreeCADGui as Gui
 import MeshPart
 import Import
 import Mesh
 import Part
 import os, re
+import traceback
+import sys
+
+print("Commandline args:")
+print(sys.argv)
 
 step_timestamp_pattern = re.compile(r"\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}")
 
@@ -30,6 +36,10 @@ step_path: str = os.path.join(root_dir, "step")
 print("STEP output path: " + step_path)
 os.makedirs(step_path, exist_ok = True)
 
+image_path: str = os.path.join(root_dir, os.path.join("images", "assembly"))
+print("IMG output path: " + image_path)
+os.makedirs(image_path, exist_ok = True)
+
 # The list of FreeCAD files to be exported,
 # by convention exported object must have the same name as project file.
 documents :list[str] = [
@@ -40,6 +50,10 @@ documents :list[str] = [
     "k1_joint_right",
     "k1_motor_mount_left",
     "k1_motor_mount_right",
+    "k1_motor_mount_couplers_left",
+    "k1_motor_mount_couplers_right",
+    "k1_motor_mount_couplers_stock_left",
+    "k1_motor_mount_couplers_stock_right",
     "k1_rail_mount",
     "k1_tensioner_left",
     "k1_tensioner_right",
@@ -47,7 +61,33 @@ documents :list[str] = [
     "k1_toolhead_20x10"
 ]
 
-def export(file: str, object_name: str, export_types: list[str]):
+# The list of FreeCAD objects to be exported as screenshots
+screenshots :list[str] = []
+
+if "screenshots" in sys.argv:
+    print("Screenshots: on")
+    screenshots :list[str] = [
+        "k1_camera",
+        "k1_front_idler_left",
+        "k1_front_idler_right",
+        "k1_joint_left",
+        "k1_joint_right",
+        "k1_motor_mount_left",
+        "k1_motor_mount_right",
+        "k1_motor_mount_couplers_left",
+        "k1_motor_mount_couplers_right",
+        "k1_motor_mount_couplers_stock_left",
+        "k1_motor_mount_couplers_stock_right",
+        "k1_rail_mount",
+        "k1_tensioner_left",
+        "k1_tensioner_right",
+        "k1_toolhead",
+    "k1_toolhead_20x10"
+    ]
+else:
+    print("Screenshots: off")
+
+def export(file: str, object_name: str, export_types: list[str], screenshots :list[str]):
     """ This function exports object from FreeCAD file
 
          Parameters:
@@ -66,6 +106,20 @@ def export(file: str, object_name: str, export_types: list[str]):
     FreeCAD.loadFile(document_path)
 
     doc = FreeCAD.ActiveDocument
+
+    view = Gui.ActiveDocument.ActiveView
+
+    if object_name in screenshots:
+        # Create images with different Views, Cameras and sizes
+        for camera in ["OrthographicCamera"]: # "PerspectiveCamera"
+            Gui.SendMsgToActiveView(camera)
+            for viewName in ["ViewAxo"]: # "ViewAxo", "ViewFront", "ViewRight", "ViewTop"
+                Gui.SendMsgToActiveView(viewName)
+                # Gui.activeDocument().activeView().viewDefaultOrientation('Trimetric',0)
+                Gui.SendMsgToActiveView("ViewFit")
+                for width, height in [[500, 500]]:
+                    image_file = object_name + "_" + camera.replace("Camera", "").lower() + "_" + viewName.replace("View", "").lower() + ".png" # ".jpg"
+                    view.saveImage(os.path.join(image_path, image_file), width, height, "Current") # "Transparent", "White"
 
     FreeCAD.Console.PrintMessage(f'Find object: "{object_name}"\n')
 
@@ -121,8 +175,9 @@ def export(file: str, object_name: str, export_types: list[str]):
 
 for document in documents:
     try:
-        export(document + ".FCStd", document, ["stl", "step"])
-    except:
+        export(document + ".FCStd", document, ["stl", "step"], screenshots)
+    except Exception:
+        FreeCAD.Console.PrintMessage(traceback.format_exc())
         FreeCAD.Console.PrintMessage('╔═════════════╗\n')
         FreeCAD.Console.PrintMessage('║░░░░ERROR░░░░║\n')
         FreeCAD.Console.PrintMessage('╚═════════════╝\n\n')

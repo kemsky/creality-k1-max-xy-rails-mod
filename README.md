@@ -207,7 +207,9 @@ You'll need at least 2 of these for each side.
 | Heat insert                   | M3 5x5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 
-## Motor Mounts
+## Motor Mounts (Option 1)
+
+Use this mounts to simplify build at the cost of reducing print area.
 
 ![Motor Mounts](/images/parts/motor_mounts.jpg)
 
@@ -234,6 +236,58 @@ You'll need at least 2 of these for each side.
 | DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 6     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+
+
+## Motor Mounts (Option 2)
+
+Use this mounts to preserve print area.
+
+### Motor mount left (stock motors)
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_motor_mount_couplers_stock_left.stl" alt="k1_motor_mount_couplers_stock_left.stl" src="images/assembly/k1_motor_mount_couplers_stock_left_orthographic_axo.png">
+</details>
+
+[k1_motor_mount_stock_left.stl](/stl/k1_motor_mount_couplers_stock_left.stl)
+
+| Item                            | Type      | Count |
+|---------------------------------|-----------|-------|
+| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     |
+| DIN 912 Socket Head Cap Screw   | M3 6 mm   | 3     |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     |
+| Flat Thin Wafer Head Screw      | M3 6 mm   | 2     |
+| MF95ZZ Bearing                  |           | 2     |
+| Double Diaphragm Coupler        | 20x30 5x5 | 1     |
+| Shaft                           | 5x57 mm   | 1     |
+| Motor Pulley for 15mm belt      | 20T 5 mm  | 1     |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     |
+| Heat insert                     | M3 5x5 mm | 5     |
+| Heat insert                     | M3 4x5 mm | 1     |
+
+
+### Motor mount right (stock motors)
+
+<details>
+    <summary>Preview</summary>
+    <img title="k1_motor_mount_couplers_stock_right.stl" alt="k1_motor_mount_couplers_stock_right.stl" src="images/assembly/k1_motor_mount_couplers_stock_right_orthographic_axo.png">
+</details>
+
+[k1_motor_mount_stock_right.stl](/stl/k1_motor_mount_couplers_stock_right.stl)
+
+| Item                            | Type      | Count |
+|---------------------------------|-----------|-------|
+| DIN 7991 Flat Head Cap Screw    | M3 6 mm   | 4     |
+| DIN 912 Socket Head Cap Screw   | M3 6 mm   | 3     |
+| DIN 912 Socket Head Cap Screw   | M3 16 mm  | 1     |
+| Flat Thin Wafer Head Screw      | M3 6 mm   | 2     |
+| MF95ZZ Bearing                  |           | 2     |
+| Double Diaphragm Coupler        | 20x30 5x5 | 1     |
+| Shaft                           | 5x57 mm   | 1     |
+| Motor Pulley for 15mm belt      | 20T 5 mm  | 1     |
+| POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     |
+| Heat insert                     | M3 5x5 mm | 5     |
+| Heat insert                     | M3 4x5 mm | 1     |
 
 ## Tensioners
 

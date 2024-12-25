@@ -1,3 +1,7 @@
+### 2024-12-26
+
+- added motor mounts with couplers to preserve print area
+
 ### 2024-12-16
 
 - export automation

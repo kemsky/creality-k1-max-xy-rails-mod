@@ -217,7 +217,7 @@ You'll need at least 2 of these for each side.
 
 ## Motor Mounts - Option 1
 
-Use this mounts to simplify build at the cost of reducing print area.
+Use this mounts to simplify build at the cost of reducing print area. The same mounts are used for stock and non-stock motors.
 
 <details>
     <summary>Preview</summary>
@@ -253,7 +253,7 @@ Use this mounts to simplify build at the cost of reducing print area.
 
 ## Motor Mounts - Option 2
 
-Use this mounts to preserve print area.
+Use this mounts to preserve print area. Different mounts are used for stock and non-stock motors.
 
 ### Motor mount left
 

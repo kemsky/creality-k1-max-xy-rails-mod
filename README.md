@@ -255,7 +255,7 @@ Use this mounts to simplify build at the cost of reducing print area.
 
 Use this mounts to preserve print area.
 
-### Motor mount left (stock motors)
+### Motor mount left
 
 <details>
     <summary>Preview</summary>
@@ -280,7 +280,7 @@ Use this mounts to preserve print area.
 | Heat insert                     | M3 4x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 
-### Motor mount right (stock motors)
+### Motor mount right
 
 <details>
     <summary>Preview</summary>

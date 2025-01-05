@@ -346,11 +346,11 @@ There are 2 options for X axis:
    
    Bed mesh will likely be less accurate, input shaper graph for Y axis will have at least 2 peaks, there will be vibrations on Z axis.
    
-   There is one benefit - you probably will have print area unchanged.
+   There is one benefit - you probably will have print area unchanged (both motor mounts options).
 
 2. Rail mounted on 20x10 pipe or 20x5 carbon + 20x5 aluminium sheets - use [k1_toolhead_20x10.stl](/stl/k1_toolhead_20x10.stl)
-   
-   Print area will be reduced to 284 mm (Y axis). 
+
+   Print area will be reduced to 284 mm (Y axis) with motor mounts option 1. 
 
 
 ### Aluminium rectangular pipe on X axis

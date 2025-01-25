@@ -1,3 +1,7 @@
+### 2025-01-25
+
+- rails mount wall now has 1 degree angle to fit top frame better
+
 ### 2024-12-26
 
 - added motor mounts with couplers to preserve print area

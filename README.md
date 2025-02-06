@@ -116,6 +116,9 @@ I would recommend (quite expensive) LDO-42STH48-1684MAC 0.9 degree steppers, the
 
 BOM contains affiliate links, this way you can support my work if you want.
 
+! `Flat Thin Wafer Head Screw` - M3 screws with flat head that has 1 mm thickness. 
+You can find those on AliExpress, manufacturer NINDEJIN, search for "Ultra Low Profile Head Screw".
+
 ## Front Idlers
 
 <details>

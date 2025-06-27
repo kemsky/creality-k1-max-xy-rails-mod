@@ -1,6 +1,6 @@
 # Creality `K1 Max` XY Rails Mod
 
-### [**!**] I'm working on V2 of this mod which uses MGN9 rail on X axis and provides higher accelerations.
+### [**!**] There is V2 of this mod: https://github.com/kemsky/creality-k1-max-xy-rails-mod-v2.
 
 ## Description
 

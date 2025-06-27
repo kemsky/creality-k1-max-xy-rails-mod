@@ -25,6 +25,14 @@ This mod uses `MGN12` rails and `MGN12H` carriages for X and Y axis. All rails m
 
 Recommended printing materials: PA/PA-CF or similar, ABS-GF. Wall loops, top/bottom layers should be at least 5, I'd recommend 6-7, infill 40%.
 
+#### Belts tuning
+
+Preferred way is to use Spectroid android app (or any other program that can show sound frequency).
+
+Move toolhead to the middle, move X axis to have 150mm between motor mounts and XY joints.
+
+Pluck the shortest belt on each side, displayed frequency should be the same. Target frequency is 120-130Hz, if you go higher than 130Hz you risk to damage belts.
+
 ## Published
 
 https://www.printables.com/model/913734-creality-k1-max-xy-rails-mod

@@ -1,3 +1,7 @@
+### 2025-06-27
+
+- updated readme
+
 ### 2025-01-25
 
 - rails mount wall now has 1 degree angle to fit top frame better

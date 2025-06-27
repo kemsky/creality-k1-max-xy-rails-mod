@@ -1,19 +1,21 @@
 # Creality `K1 Max` XY Rails Mod
 
+### [**!**] I'm working on V2 of this mod which uses MGN9 rail on X axis and provides higher accelerations.
+
 ## Description
 
 <img title="CAD Assembly" alt="CAD Assembly" src="images/assembled/cad_assembly.png">
 
 This mod fixes `K1 Max` quality issues, namely excessive ringing/echo. It also increases maximum accelerations.
 
-**You must replace motor pulleys, 7.7mm belt does not fit stock pulleys. Alternatively, you can install non-stock motors.**
+**You must replace motor pulleys, 7.7mm belt does not fit stock pulleys, alternatively you can install non-stock motors.**
 
 This mod uses `POWGE` 7.7 mm belt and corresponding idler pulleys.
 You can use 6 mm belt with stock idlers if you add washers to compensate size differences (`POWGE` idlers have 10.4 mm height, [washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3), [washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)).
 
-I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distance` needs to be adjusted to `40` and `driver_SGTHRS` must be tuned `printer.cfg`). You will need a bearing puller to do that (some people use printed pullers e.g. [pulley puller](https://www.printables.com/model/515503-pulley-puller)), you have to be careful to avoid damage to motor shafts. If pulleys sit too tight you can use dremel and make cuts to relax pulleys. 
+I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distance` needs to be adjusted to `40` and `driver_SGTHRS` must be tuned `printer.cfg`). You will need a bearing puller to do that (some people use printed pullers e.g. [pulley puller](https://www.printables.com/model/515503-pulley-puller)), you have to be careful to avoid damage to motor shafts. If pulleys sit too tight you can use Dremel and make cuts to relax pulleys. 
 
-**You must use camera mount from this mod, it is 8mm lower than original.**
+**You must use camera mount from this mod, it is lower than original.**
 
 **This mod changes print area depending on options you select, beware.**
 
@@ -21,10 +23,7 @@ If you choose motor mounts option 2 - print area should remain the same.
 
 This mod uses `MGN12` rails and `MGN12H` carriages for X and Y axis. All rails must be cut to have 375 mm between far left and far right holes, X axis rail has max length 410 mm (375 + 17.5x2 mm), Y axis rails - 385 mm (375 + 5x2 mm).
 
-Recommended printing materials:
-
-- Toolhead - PA/PA-CF or similar, ABS-GF
-- Other parts - ABS-GF/ABS-CF
+Recommended printing materials: PA/PA-CF or similar, ABS-GF. Wall loops, top/bottom layers should be at least 5, I'd recommend 6-7, infill 40%.
 
 ## Published
 
@@ -95,9 +94,15 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbo
 
 ## VFA
 
-**N.B.** I use 0.9 degree stepper motors - [17HS6401S 0.9 (Affiliate)](https://s.click.aliexpress.com/e/_DeegBeL), they are not ideal, hot and have lower torque then original, but I get less VFA.
+**N.B.** I use 0.9 degree stepper motors - [17HS6401S 0.9 (Affiliate)](https://s.click.aliexpress.com/e/_DeegBeL), they are not ideal, loud, hot and have lower torque then original, but I get less VFA.
 
-I would recommend (quite expensive) LDO-42STH48-1684MAC 0.9 degree steppers, they have high torque, low temperature, do not need custom wiring.
+Upd. I would recommend Leadshine 42cm06 1.8 motors (low VFA, silent, high torque, need custom wiring, expensive) or LDO-42STH48-1684MAC 0.9 (requires full_steps_per_rotation: 400, loud, limited acceleration, low VFA).
+
+<details>
+    <summary>42cm06 1.8 wiring</summary>
+    <img title="cm06_wiring.jpg" alt="cm06_wiring.jpg" src="images/assembly/cm06_wiring.jpg">
+</details>
+<br>
 
 <details>
     <summary>eSun Silk PLA</summary>

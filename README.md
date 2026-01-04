@@ -1,6 +1,6 @@
 # Creality `K1 Max` XY Rails Mod
 
-### [**!**] There is V2 of this mod: https://github.com/kemsky/creality-k1-max-xy-rails-mod-v2.
+## [**!**] There is V2 of this mod: <https://github.com/kemsky/creality-k1-max-xy-rails-mod-v2>
 
 ## Description
 
@@ -13,7 +13,7 @@ This mod fixes `K1 Max` quality issues, namely excessive ringing/echo. It also i
 This mod uses `POWGE` 7.7 mm belt and corresponding idler pulleys.
 You can use 6 mm belt with stock idlers if you add washers to compensate size differences (`POWGE` idlers have 10.4 mm height, [washers 0.2mm (Affiliate)](https://s.click.aliexpress.com/e/_Dn3ZZa3), [washers 0.3mm (Affiliate)](https://s.click.aliexpress.com/e/_DEptgHN)).
 
-I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distance` needs to be adjusted to `40` and `driver_SGTHRS` must be tuned `printer.cfg`). You will need a bearing puller to do that (some people use printed pullers e.g. [pulley puller](https://www.printables.com/model/515503-pulley-puller)), you have to be careful to avoid damage to motor shafts. If pulleys sit too tight you can use Dremel and make cuts to relax pulleys. 
+I replaced stock motor pulleys with 20T pulleys for 15mm belt (`rotation_distance` needs to be adjusted to `40` and `driver_SGTHRS` must be tuned `printer.cfg`). You will need a bearing puller to do that (some people use printed pullers e.g. [pulley puller](https://www.printables.com/model/515503-pulley-puller)), you have to be careful to avoid damage to motor shafts. If pulleys sit too tight you can use Dremel and make cuts to relax pulleys.
 
 **You must use camera mount from this mod, it is lower than original.**
 
@@ -25,7 +25,7 @@ This mod uses `MGN12` rails and `MGN12H` carriages for X and Y axis. All rails m
 
 Recommended printing materials: PA/PA-CF or similar, ABS-GF. Wall loops, top/bottom layers should be at least 5, I'd recommend 6-7, infill 40%.
 
-#### Belts tuning
+### Belts tuning
 
 Preferred way is to use Spectroid android app (or any other program that can show sound frequency).
 
@@ -35,17 +35,17 @@ Pluck the shortest belt on each side, displayed frequency should be the same. Ta
 
 ## Published
 
-https://www.printables.com/model/913734-creality-k1-max-xy-rails-mod
+<https://www.printables.com/model/913734-creality-k1-max-xy-rails-mod>
 
-https://makerworld.com/en/models/498602
+<https://makerworld.com/en/models/498602>
 
-https://www.thingiverse.com/thing:6667004
+<https://www.thingiverse.com/thing:6667004>
 
 ## License
 
 All work in this repository falls under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+<https://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 ### Notes
 
@@ -82,7 +82,6 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
     <summary>Toolhead</summary>
     <img title="Toolhead" alt="Toolhead" src="images/assembled/toolhead_view.jpg">
 </details>
-
 
 ## Input shaper graphs
 
@@ -124,8 +123,7 @@ Upd. I would recommend Leadshine 42cm06 1.8 motors (low VFA, silent, high torque
     <img title="Mate PLA 2" alt="Mate PLA 2" src="images/mate_pla_2.jpg">
 </details>
 
-
-# BOM
+## BOM
 
 BOM contains affiliate links, this way you can support my work if you want.
 
@@ -253,6 +251,8 @@ Use this mounts to simplify build at the cost of reducing print area. The same m
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 6     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
+You'll need 1 M3x35 screw from stock gantry motor mounts.
+
 ### Right
 
 [k1_motor_mount_right.stl](/stl/k1_motor_mount_right.stl)
@@ -266,6 +266,7 @@ Use this mounts to simplify build at the cost of reducing print area. The same m
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 6     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
+You'll need 1 M3x35 screw from stock gantry motor mounts.
 
 ## Motor Mounts - Option 2
 
@@ -295,6 +296,7 @@ Use this mounts to preserve print area. Different mounts are used for stock and 
 | Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 | Heat insert                     | M3 4x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
+You'll need 1 M3x35 screw from stock gantry motor mounts.
 
 ### Motor mount right
 
@@ -319,6 +321,8 @@ Use this mounts to preserve print area. Different mounts are used for stock and 
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
 | Heat insert                     | M3 5x5 mm | 5     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 | Heat insert                     | M3 4x5 mm | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+
+You'll need 1 M3x35 screw from stock gantry motor mounts.
 
 ## Tensioners
 
@@ -357,16 +361,16 @@ Use this mounts to preserve print area. Different mounts are used for stock and 
 There are 2 options for X axis:
 
 1. Rail only - use [k1_toolhead.stl](/stl/k1_toolhead.stl)
-   
+
    MGN12 rail can be used on X axis without reinforcement, but it is not rigid enough.
-   
+
    Bed mesh will likely be less accurate, input shaper graph for Y axis will have at least 2 peaks, there will be vibrations on Z axis.
-   
+
    There is one benefit - you probably will have print area unchanged (both motor mounts options).
 
 2. Rail mounted on 20x10 pipe or 20x5 carbon + 20x5 aluminium sheets - use [k1_toolhead_20x10.stl](/stl/k1_toolhead_20x10.stl)
 
-   Print area will be reduced to 284 mm (Y axis) with motor mounts option 1. 
+   Print area will be reduced to 284 mm (Y axis) with motor mounts option 1.
 
 
 ### Aluminium rectangular pipe on X axis

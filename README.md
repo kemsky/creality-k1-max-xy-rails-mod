@@ -341,7 +341,7 @@ You'll need 1 M3x35 screw from stock gantry motor mounts.
 | DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DEOTbEL) |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
-| Heat insert                     | M3 3x4.5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+| Heat insert                     | M3 4.5x3 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 ### Right
 
@@ -353,7 +353,7 @@ You'll need 1 M3x35 screw from stock gantry motor mounts.
 | DIN 912 Socket Head Cap Screw   | M3 16 mm    | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DDrYqiJ) |
 | DIN 912 Socket Head Cap Screw   | M4 20 mm    | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DEOTbEL) |
 | POWGE GT2 No Teeth Idler Pulley | 7.7 mm      | 1     | [AliExpress](https://s.click.aliexpress.com/e/_DeapZjH) |
-| Heat insert                     | M3 3x4.5 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
+| Heat insert                     | M3 4.5x3 mm | 2     | [AliExpress](https://s.click.aliexpress.com/e/_DeBGks7) |
 
 
 ## Toolhead and X axis

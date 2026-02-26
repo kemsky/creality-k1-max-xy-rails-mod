@@ -27,7 +27,7 @@ Recommended printing materials: PA/PA-CF or similar, ABS-GF. Wall loops, top/bot
 
 ### Belts tuning
 
-Preferred way is to use Spectroid android app (or any other program that can show sound frequency).
+Preferred way is to use Spectroid Android app (or any other program that can show sound frequency).
 
 Move toolhead to the middle, move X axis to have 150mm between motor mounts and XY joints.
 
@@ -70,7 +70,7 @@ Partially this work is based on [D3vil-Design](https://github.com/D3vil-Design/K
 
 <details>
     <summary>Joints</summary>
-    <img title="Joints" alt="Joints" src="images/assembled/joint_rails_mount_view.jpgg">
+    <img title="Joints" alt="Joints" src="images/assembled/joint_rails_mount_view.jpg">
 </details>
 
 <details>
@@ -101,7 +101,7 @@ Input shaper graphs for reinforced X axis (20x5mm aluminium sheet + 20x5mm carbo
 
 ## VFA
 
-**N.B.** I use 0.9 degree stepper motors - [17HS6401S 0.9 (Affiliate)](https://s.click.aliexpress.com/e/_DeegBeL), they are not ideal, loud, hot and have lower torque then original, but I get less VFA.
+**N.B.** I use 0.9 degree stepper motors - [17HS6401S 0.9 (Affiliate)](https://s.click.aliexpress.com/e/_DeegBeL), they are not ideal, loud, hot and have lower torque than original, but I get less VFA.
 
 Upd. I would recommend Leadshine 42cm06 1.8 motors (low VFA, silent, high torque, need custom wiring, expensive) or LDO-42STH48-1684MAC 0.9 (requires full_steps_per_rotation: 400, loud, limited acceleration, low VFA).
 
@@ -231,7 +231,7 @@ You'll need at least 2 of these for each side.
 
 ## Motor Mounts - Option 1
 
-Use this mounts to simplify build at the cost of reducing print area. The same mounts are used for stock and non-stock motors.
+Use these mounts to simplify build at the cost of reducing print area. The same mounts are used for stock and non-stock motors.
 
 <details>
     <summary>Preview</summary>
@@ -270,7 +270,7 @@ You'll need 1 M3x35 screw from stock gantry motor mounts.
 
 ## Motor Mounts - Option 2
 
-Use this mounts to preserve print area. Different mounts are used for stock and non-stock motors.
+Use these mounts to preserve print area. Different mounts are used for stock and non-stock motors.
 
 ### Motor mount left
 
